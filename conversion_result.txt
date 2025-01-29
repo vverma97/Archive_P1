@@ -1,0 +1,3 @@
+Decimal: 15
+Hexadecimal: F
+Binary: 1111
