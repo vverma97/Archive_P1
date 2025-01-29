@@ -1,0 +1,45 @@
+  355  git init
+  356  git checkout -b main
+  357  git add .
+  358  git remote add origin https://github.com/vverma97/Archive_P1.git
+  359  git checkout -b feature_branch
+  360  touch README.md
+  361  open README.md
+  362  code README.md
+  363  git add README.md
+  364  git commit -m "Add README.md to feature branch"
+  365  git push origin <feature_branch>
+  366  git push origin feature_branch
+  367  git checkout main
+  368  checkout main
+  369  git checkout main
+  370  git branch
+  371  git branch -r
+  372  git checkout -b main
+  373  git branch
+  374  git fetch origin main
+  375  git branch
+  376  git merge feature-branch
+  377  git merge feature_branch
+  378  git push origin main
+  379  git fetch origin
+  380  git merge origin/main
+  381  git rebase origin/main
+  382  git push origin main --force
+  383  git branch
+  384  git pull origin main
+  385  git status
+  386  code README.md
+  387  code README.md
+  388  touch history4.txt
+  389  mkdir Problem4
+  390  cd Problem4
+  391  rmdir Problem4
+  392  cd /root/Desktop/host
+  393  mkdir Problem4
+  394  touch history4.txt
+  395  history | tail -n 100 >> history4.txt
+  396  mv history4.txt Problem4
+  397  cd Problem4
+  398  touch history4.txt
+  399  history | tail -n 100 >> history4.txt
